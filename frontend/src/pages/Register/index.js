@@ -22,12 +22,12 @@ export default function Register() {
                 </section>
 
                 <form>
-                    <input type="text" placeholder="Digite o nome" />
-                    <input type="email" placeholder="Digite o e-mail" />
-                    <input type="text" placeholder="Digite o número do Whatsapp" />
+                    <input type="text" placeholder="Nome da ONG" />
+                    <input type="email" placeholder="E-mail" />
+                    <input type="text" placeholder="Número do Whatsapp" />
 
                     <div className="input-group">
-                        <input type="text" placeholder="Digite a cidade" />
+                        <input type="text" placeholder="Cidade" />
                         <input type="text" placeholder="UF" style={{ width: 80 }} />
                     </div>
 
